@@ -151,23 +151,6 @@ form.sign-in-form {
   background: linear-gradient(45deg, #ff9d00, #ff0000);
 }
 
-.button_login{
-  width: 150px;
-  background: linear-gradient(45deg, #ff0000, #ffa200);
-  border: none;
-  outline: none;
-  height: 49px;
-  border-radius: 49px;
-  color: #fff;
-  text-transform: uppercase;
-  font-weight: 600px;
-  margin: 10px 0;
-  cursor: pointer;
-  transition: 0.5s;
-}
-.button_login:hover{
-  background: linear-gradient(45deg, #ff9d00, #ff0000);
-}
 
 .panels-container {
   position: absolute;
@@ -417,9 +400,3 @@ form.sign-in-form {
     left: 50%;
   }
 }
-
-
-
-/*
-
- */
